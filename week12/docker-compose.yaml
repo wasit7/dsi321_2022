@@ -1,0 +1,6 @@
+#version
+#service: web
+#service: postgresql
+    #docker run --name basic-postgres -it --rm -p 5432:5432 
+    #-e POSTGRES_USER=postgres -e POSTGRES_PASSWORD=password \ postgres:14.1-alpine
+#service
