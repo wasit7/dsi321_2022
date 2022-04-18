@@ -2,4 +2,6 @@
 
 
 วิธีการติดตั้ง
+```bash
 $ docker-compose up
+```
